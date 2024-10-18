@@ -1,0 +1,3 @@
+Captions: {caption}.
+Prompt: {}.
+Answer:
